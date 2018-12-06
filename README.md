@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ethan Frome 
 
 You can use the [editor on GitHub](https://github.com/Weinstein-Classics/Ethan-Frome/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
