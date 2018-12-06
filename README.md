@@ -1,8 +1,6 @@
-## Ethan Frome 
+## Starkfield NEWS
 
-You can use the [editor on GitHub](https://github.com/Weinstein-Classics/Ethan-Frome/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-I am Ethan Frome, i createed this website to display my thoughts.
+Welcome to the official Starkfield NEWS page.
 
 ### Markdown
 
