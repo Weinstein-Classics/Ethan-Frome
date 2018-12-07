@@ -14,11 +14,7 @@ Welcome to the official Starkfield NEWS page.
 
 ### About us
 
-
-
-1. Numbered
-2. List
-
+We are a non profit orginazation devoted to delivering the town of Starkfield, Massachussets the highest wuality and most relavant news in the town. For more information about our program, please review our main website (insert some troll link).
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
