@@ -8,7 +8,7 @@ Welcome to the official Starkfield NEWS page.
 ## Stories
 
 
-* > ###**Carriage crash into elm tree**. <br/>
+* > ### **Carriage crash into elm tree**. <br/>
   > Last tuesday night, December 3, a couple crashed into an overgrown elm tree in their carriage. <br/>
   > Reports say that the crash resulted in fatal injuries to the couple. <br/>
   > <img src="assets/crash.jpg" alt="carriage crash" height="100" /> <br>
@@ -17,7 +17,7 @@ Welcome to the official Starkfield NEWS page.
   
 <br/>
 
-* > ###**Glue shortages cause panic** <br/>
+* > ## **Glue shortages cause panic** <br/>
   > A recent shortage of glue and other adhesive products in local stores causes panic. <br/>
   > Shop owners claim that the shortage is caused by decreased imports due to recent storms making transportation costs skyrocket. <br/>
   > <img src="assets/gluebottle.jpg" alt="gluebottle" height="100" />
