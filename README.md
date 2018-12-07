@@ -1,4 +1,5 @@
-# Starkfield NEWS ![NEWS](assets/newspaper.png =100x)
+# Starkfield NEWS ![NEWS]
+<img src="assets/newspaper.png" alt="news" height="100"/>
 
 Welcome to the official Starkfield NEWS page.
 
