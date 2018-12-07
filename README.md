@@ -2,15 +2,13 @@
 
 Welcome to the official Starkfield NEWS page.
 
+
+
+
 # Stories
 
-```
-# does this work
-Put story template here
 
-```
-
-> Fatal crash into the elm tree last tuesday
+* > Fatal crash into the elm tree last tuesday
 
 ## About us
 
