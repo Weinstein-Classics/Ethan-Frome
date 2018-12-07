@@ -1,4 +1,4 @@
-# Starkfield <img src="assets/newspaper.png" alt="news" height="25"/>
+# Starkfield <img src="assets/newspaper.png" alt="news" height="50"/>
 
 Welcome to the official Starkfield NEWS page.
 
