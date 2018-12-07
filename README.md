@@ -1,26 +1,22 @@
-## Starkfield NEWS
+# Starkfield NEWS
 
 Welcome to the official Starkfield NEWS page.
 
-### Markdown
+# Stories
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+Put story template here
+
+```
+
+> Fatal crash into the elm tree last tuesday
+
+## About us
 
 
-Syntax highlighted code block
-
-# Hea
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
-
-**Bold** and _Italic_ and `Code` text
-
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
