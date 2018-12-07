@@ -20,7 +20,8 @@ Welcome to the official Starkfield NEWS page.
 * > ### **Glue shortages cause panic** <br/>
   > A recent shortage of glue and other adhesive products in local stores causes panic. <br/>
   > Shop owners claim that the shortage is caused by decreased imports due to recent storms making transportation costs skyrocket. <br/>
-  > <img src="assets/gluebottle.jpg" alt="gluebottle" height="100" />
+  > <img src="assets/gluebottle.jpg" alt="gluebottle" height="100" /> <br/>
+  > "I just dont know where to get more glue to stock the stores," says a local shopkeep, "the prices for shipping in bottles is just too high, and I sure aren't getting myself with this weather."
 
 ### About us
 
