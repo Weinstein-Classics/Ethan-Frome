@@ -8,8 +8,9 @@ Welcome to the official Starkfield NEWS page.
 # Stories
 
 
-* > Carriage crash into the elm tree last tuesday
-> Reports say that crash resulted in fatal injuries to couple
+* > Carriage crash into the elm tree last tuesday.
+
+  > Reports say that crash resulted in fatal injuries to couple.
 
 ## About us
 
