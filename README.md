@@ -27,9 +27,10 @@ Welcome to the official Starkfield NEWS page.
 
 * > ### **Local Woman Diagnosed with Terminal Disease** <br/>
   > Last Wedsnesday, December 18, Starkfield News<sub>TM</sub> was informed about the unfortunate condition that housewife Zenobia Frome has been diagnosed with after a recent doctor visit. <br/>
-  > Zenobia has made a statement on the matter, herself: <br/><br/>
-  > "I went to the doctor in Bettsbridge to consult about my condition. I was expecting him to give me a new medication,                and that I would be on my way, but apperently things have gotten much worse. The doctor informed me that I have developed 'complications' that would not be teatable" <br/><br/>
-  That is all that Mrs. Frome has chosen to share with Starkfield News<sub>TM</sub>. She is planning to hire a houseworker to do work for her around the house so she can rest for her last few months. <br/>
+  > Zenobia has made a statement on the matter, herself: <br/>
+  > > "I went to the doctor in Bettsbridge to consult about my condition. I was expecting him to give me a new medication,                and that I would be on my way, but apperently things have gotten much worse. The doctor informed me that I have developed 'complications' that would not be teatable" <br/>
+  
+  >That is all that Mrs. Frome has chosen to share with Starkfield News<sub>TM</sub>. She is planning to hire a houseworker to do work for her around the house so she can rest for her last few months. <br/>
   The enire Starkfield News<sub>TM</sub> team sends our warm regards to the Frome family. <br/>
 
 ### About us
