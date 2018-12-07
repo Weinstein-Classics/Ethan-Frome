@@ -13,7 +13,7 @@ Welcome to the official Starkfield NEWS page.
   > Reports say that the crash resulted in fatal injuries to the couple. <br/>
   > <img src="assets/crash.jpg" alt="carriage crash" height="100" /> <br>
   > The couple's families have spoken out, requesting that everyone is careful when riding their carriages through the storm season. <br/>
-  > There is no word from the city council, who has been to improve road saftey for the past several months leading into the winter season. <br/>
+  > There is no word from the city council, who has been expected to improve road saftey for the past several months leading into the winter season. <br/>
   
 <br/>
 
