@@ -8,9 +8,15 @@ Welcome to the official Starkfield NEWS page.
 ## Stories
 
 
-* > Carriage crash into the elm tree last tuesday.<br/>
-  > Reports say that the crash resulted in fatal injuries to couple.<br/>
+* > **Carriage crash into the elm tree last tuesday**.<br/>
+  > Reports say that the crash resulted in fatal injuries to a couple.<br/>
   > <img src="assets/crash.jpg" alt="carriage crash" height="100" />
+  
+<br/>
+
+* > A recent shortage of glue and other adhesive products in local stores causes panic. <br/>
+  > Shop owners claim that the shortage is caused by decreased imports due to recent storms making transportation costs skyrocket. <br/>
+  
 
 ### About us
 
