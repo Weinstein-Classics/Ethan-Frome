@@ -1,10 +1,13 @@
 # Starkfield NEWS
 
+![NEWS](assets/newspaper.png)
+
 Welcome to the official Starkfield NEWS page.
 
 # Stories
 
 ```
+# does this work
 Put story template here
 
 ```
