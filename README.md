@@ -1,4 +1,4 @@
-# Starkfield <img src="assets/newspaper.png" alt="news" height="40"/>
+# Starkfield <img src="assets/newspaper.png" alt="news" height="40"/><sup><small>TM</small></sup>
 
 Welcome to the official Starkfield NEWS page.
 
@@ -30,8 +30,8 @@ Welcome to the official Starkfield NEWS page.
   > Zenobia has made a statement on the matter, herself: <br/>
   > > "I went to the doctor in Bettsbridge to consult about my condition. I was expecting him to give me a new medication,                and that I would be on my way, but apperently things have gotten much worse. The doctor informed me that I have developed 'complications' that would not be teatable" <br/>
   >
-  >That is all that Mrs. Frome has chosen to share with Starkfield News<sub><small>TM</small></sub>. She is planning to hire a houseworker to do work for her around the house so she can rest for her last few months. <br/>
-  The enire Starkfield News<sub><sall>TM</small></sub> team sends our warm regards to the Frome family. <br/>
+  >That is all that Mrs. Frome has chosen to share with Starkfield News<sup><small>TM</small></sup>. She is planning to hire a houseworker to do work for her around the house so she can rest for her last few months. <br/>
+  The enire Starkfield News<sup><sall>TM</small></sup> team sends our warm regards to the Frome family. <br/>
 
 ### About us
 
