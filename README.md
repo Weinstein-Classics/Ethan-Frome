@@ -1,7 +1,8 @@
-# Starkfield <img src="assets/newspaper.png" alt="news" height="50"/>
+# Starkfield <img src="assets/newspaper.png" alt="news" height="40"/>
 
 Welcome to the official Starkfield NEWS page.
 
+<br>
 <hr>
 # Stories
 
@@ -9,7 +10,7 @@ Welcome to the official Starkfield NEWS page.
 * > Carriage crash into the elm tree last tuesday.<br/>
   > Reports say that crash resulted in fatal injuries to couple.
 
-## About us
+### About us
 
 
 
