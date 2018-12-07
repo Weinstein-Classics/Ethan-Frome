@@ -4,7 +4,8 @@ Welcome to the official Starkfield NEWS page.
 
 <br>
 <hr>
-# Stories
+
+## Stories
 
 
 * > Carriage crash into the elm tree last tuesday.<br/>
