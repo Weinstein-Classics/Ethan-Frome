@@ -11,6 +11,7 @@ Welcome to the official Starkfield NEWS page.
 * > Carriage crash into the elm tree last tuesday.<br/>
   > Reports say that the crash resulted in fatal injuries to couple.
   > <img src="assets/crash.jpg" alt="carriage crash" height="100" />
+
 ### About us
 
 
