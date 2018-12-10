@@ -3,12 +3,8 @@
 
 @import "jekyll-theme-minimal";
 
-body, html {
-  height: 100%;
+html {
   margin: 0;
-}
-
-.bg {
   /* The image used */
   background-image: url("/assets/snowscape2.jpg");
 
@@ -20,6 +16,7 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 body {
   background-color: transparent;
 }
