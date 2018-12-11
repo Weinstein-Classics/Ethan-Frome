@@ -1,5 +1,10 @@
 ---
 ---
+.background {
+  position: fixed;
+  height: 100%;
+}
+
 
 @import "jekyll-theme-minimal";
 
@@ -25,7 +30,4 @@ section {
     //text-shadow: 1px 1px 12px black;
 }
 
-.background {
-  position: fixed;
-  height: 100%;
-}
+
