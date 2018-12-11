@@ -13,7 +13,8 @@
   size: cover;
 }
 
-.body {
+body {
+  background-color: transparent; 
   top: 0;
   left: 0;
   right: 0;
@@ -38,9 +39,7 @@ html {
   background-size: cover;
 }
 */
-body {
-  background-color: transparent;
-}
+
 section {
     background-color: #ffffff69;
     color: black;
