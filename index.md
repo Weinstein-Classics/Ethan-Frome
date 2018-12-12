@@ -7,16 +7,16 @@ Welcome to the official Starkfield NEWS page.
 ## Stories
 
 * > ### **Carriage Crash into Elm Tree**
+  > <img src="assets/crash.jpg" alt="carriage crash" height="100" align="left" />  
   > Last tuesday night, December 3, a couple crashed into an overgrown elm tree in their carriage.  
   > Reports say that the crash resulted in fatal injuries to the couple.  
-  > <img src="assets/crash.jpg" alt="carriage crash" height="100" />  
   > The couple's families have spoken out, requesting that everyone is careful when riding their carriages through the storm season.  
   > There is no word from the city council, who has been expected to improve road saftey for the past several months leading into the winter season.
   
 * > ### **Glue Shortages Cause Panic**
+  > <img src="assets/gluebottle.png" alt="gluebottle" height="100" align="left" />  
   > A recent shortage of glue and other adhesive products in local stores causes panic.  
   > Shop owners claim that the shortage is caused by decreased imports due to recent storms making transportation costs skyrocket.  
-  > <img src="assets/gluebottle.png" alt="gluebottle" height="100" />  
   > "I just dont know where to get more bottles to stock the stores," says a local shopkeep, "the prices for shipping em' in is just too high, and I sure aren't getting them myself with this weather."
 
 * > ### **Local Woman Diagnosed with Terminal Disease**
