@@ -8,18 +8,7 @@
        format('woff2');
 }
 
-.background {
-  position: fixed;
-  top: 0; 
-  left: 0; 
-  right: 0; 
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-  z-index: -1;
-  //margin: 0;
-  //size: cover;
-}
+
 
 body {
   background-color: transparent; 
@@ -54,5 +43,16 @@ section {
     color: black;
     //text-shadow: 1px 1px 12px black;
 }
-
+.background {
+  position: fixed;
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+  margin: 0;
+  size: cover;
+}
 
