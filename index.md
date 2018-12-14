@@ -29,7 +29,7 @@ Welcome to the official Starkfield NEWS page.
   > She is planning to hire a houseworker to do work for her around the house so she can rest for her last few months.  
   > The enire Starkfield News™ team sends our warm regards to the Frome family.
 
-* > ### **News Story***
+* > ### **News Story**
   > Something happened
   > It happened at a time
   > In a place
