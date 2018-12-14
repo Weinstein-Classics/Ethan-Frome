@@ -52,7 +52,8 @@
         <h1 id="starkfield-">Starkfield <img src="assets/newspaper.png" alt="news" height="40">
           <sup>™</sup>
         </h1>
-        <p>Welcome to the official Starkfield NEWS page.</p>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <!--p>Welcome to the official Starkfield NEWS page.</p-->
         <hr>
          <ul class="directory">
            <li><a href="#starkfield-">Home</a></li>
