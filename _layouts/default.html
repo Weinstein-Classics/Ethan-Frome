@@ -55,9 +55,9 @@
         <p>Welcome to the official Starkfield NEWS page.</p>
         <hr>
          <ul class="directory">
-          <li>Home</li>
-          <li>Stories</li>
-          <li>About Us</li>
+           <li><a href="#starkfield-">Home</a></li>
+           <li><a href=#stories">Stories</a></li>
+           <li><a href="about">About Us</a></li>
          </ul>
       </header>
       <section>
@@ -68,7 +68,7 @@
       
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p class="about">This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
       </footer>
     </div>
