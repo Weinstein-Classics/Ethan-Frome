@@ -58,7 +58,7 @@ img.background {
   min-height: 100%;
   z-index: -1;
   margin: 0;
-  size: cover;
+  object-fit: cover;
 }
 
 .directory {
