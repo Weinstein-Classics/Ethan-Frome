@@ -29,6 +29,11 @@ Welcome to the official Starkfield NEWS page.
   > She is planning to hire a houseworker to do work for her around the house so she can rest for her last few months.  
   > The enire Starkfield News™ team sends our warm regards to the Frome family.
 
+* > ### **News Story***
+  > Something happened
+  > It happened at a time
+  > In a place
+  
 ### About us
 
 We are a non profit orginazation devoted to delivering the town of Starkfield, Massachussets the highest quality and most relavant news in the town. For more information about our program, please review [our parent company](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
