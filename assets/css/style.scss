@@ -13,8 +13,6 @@
        format('woff2');
 }
 
-
-
 body {
   background-color: transparent; 
   top: 0;
@@ -22,11 +20,13 @@ body {
   right: 0;
   bottom: 0;
   margin: 10% 10% 10% 10%;
-  border-radius: 25px;
-  padding: 5%;
   font-family: Product Sans;
 }
 
+section { 
+  border-radius: 25px;
+  padding: 5%;
+}
 /*
 html {
   margin: 0;
