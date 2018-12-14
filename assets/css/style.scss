@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 @font-face {
   font-family: 'Product Sans';
   font-style: normal;
@@ -19,8 +24,6 @@ body {
   margin: 10% 10% 10% 10%;
 	font-family: Product Sans;
 }
-
-@import "jekyll-theme-minimal";
 
 /*
 html {
