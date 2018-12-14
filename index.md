@@ -30,9 +30,9 @@ Welcome to the official Starkfield NEWS page.
   > The enire Starkfield News™ team sends our warm regards to the Frome family.
 
 * > ### **News Story**
-  > Something happened
-  > It happened at a time
-  > In a place
+  > Something happened<br/>
+  > It happened at a time<br/>
+  > In a place<br/>
   
 ### About us
 
