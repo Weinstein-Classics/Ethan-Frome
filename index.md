@@ -21,6 +21,7 @@ Welcome to the official Starkfield NEWS page.
   > "I just dont know where to get more bottles to stock the stores," says a local shopkeep, "the prices for shipping em' in is just too high, and I sure aren't getting them myself with this weather."
 
 * > ### **Local Woman Diagnosed with Terminal Disease**
+  > <img src="assets/heart-rate.svg" alt="heart beat" height="100" align="left" />
   > Last Wedsnesday, December 18, Starkfield News™ was informed about the unfortunate condition that housewife Zenobia Frome has been diagnosed with after a recent doctor visit.  
   > Zenobia has made a statement on the matter, herself:
   > > "I went to the doctor in Bettsbridge to consult about my condition. I was expecting him to give me a new medication,                and that I would be on my way, but apperently things have gotten much worse. The doctor informed me that I have developed 'complications' that would not be teatable"
