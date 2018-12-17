@@ -8,7 +8,7 @@ Welcome to the official Starkfield NEWS page.
 ## Stories
 
 * > ### **Carriage Crash into Elm Tree**
-  > <img src="assets/crash.jpg" alt="carriage crash" height="100" align="left" />  
+  > <img src="assets/crash.jpg" alt="carriage crash" height="100" align="left" class="stories" />  
   > Last tuesday night, December 3, a couple crashed into an overgrown elm tree in their carriage.  
   > Reports say that the crash resulted in fatal injuries to the couple.  
   > The couple's families have spoken out, requesting that everyone is careful when riding their carriages through the storm season.  
@@ -30,10 +30,13 @@ Welcome to the official Starkfield NEWS page.
   > She is planning to hire a houseworker to do work for her around the house so she can rest for her last few months.  
   > The enire Starkfield News™ team sends our warm regards to the Frome family.
 
-* > ### **News Story**
-  > Something happened<br/>
-  > It happened at a time<br/>
-  > In a place<br/>
+* > ### **Another Couple Crashes into Elm Tree**
+  > Last Thursday, another couple crashed into the big elm tree on the side of the road near the highway.
+  > The couple has been identified as Ethan Frome and Mattie Silver, residents of the Frome household.
+  > The couple survived the crash, but suffered from severe injuries and several fractured bones.
+  > Ethan's wife, Zeena, is now planning to care for the injured, despite her own ailments.
+  > The Starkfield City Council has made an official statement regarding the low visibility in the storm season. The link to that article can be found here <a >Link Here</a>
+  > Be careful out there, Starkfield!
   
 ### About us
 
