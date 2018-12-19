@@ -10,8 +10,7 @@ title: Starkfield News™
  > I am the lead writer and editor of our team of 2, so I have a very stressful role.
  > I hope you find my articles interesting.
  
- </br>
- </br>
+ 
  
  > ### Tracy Lusitania
  >  <img src="assets/businesswoman.jpg" alt="business woman" class="stories" height="100" align="left" />
