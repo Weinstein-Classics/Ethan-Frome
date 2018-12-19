@@ -35,9 +35,9 @@ Welcome to the official Starkfield NEWS page.
 
 - > ### **Another Couple Crashes into Elm Tree**
   >
+  > <img alt="broken bone" src="assets/image.png" class="stories" height="100" align="left"/>
   > Last Thursday, another couple crashed into the big elm tree on the side of the road near the highway.
   > The couple has been identified as Ethan Frome and Mattie Silver, residents of the Frome household.
-  > <img alt="broken bone" src="assets/image.png" class="stories" height="100" align="left"/>
   > The couple survived the crash, but suffered from severe injuries and several fractured bones.
   > Ethan's wife, Zeena, is now planning to care for the injured, despite her own ailments.
   > The Starkfield City Council has made an official statement regarding the low visibility in the storm season.
