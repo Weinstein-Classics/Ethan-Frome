@@ -39,7 +39,7 @@ Welcome to the official Starkfield NEWS page.
   > The couple has been identified as Ethan Frome and Mattie Silver, residents of the Frome household.
   > The couple survived the crash, but suffered from severe injuries and several fractured bones.
   > Ethan's wife, Zeena, is now planning to care for the injured, despite her own ailments.
-  > The Starkfield City Council has made an official statement regarding the low visibility in the storm season. The link to that article can be found here <a >Link Here</a>
+  > The Starkfield City Council has made an official statement regarding the low visibility in the storm season. The link to that article can be found [here]().
   > Be careful out there, Starkfield!
 
 ### About us
