@@ -19,7 +19,7 @@ Welcome to the official Starkfield NEWS page.
   > The link to that article can be found <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">here</a>. Be careful out there, Starkfield!
 
 
-- > ### **Glue Shortages Cause Panic**
+- > ### **Glue Shortage Causes Panic**
   >
   > <img src="assets/gluebottle.png" alt="gluebottle" height="100" align="left" />  
   > A recent shortage of glue and other adhesive products in local stores causes panic.  
