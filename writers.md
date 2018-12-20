@@ -24,4 +24,4 @@ title: Starkfield News™
  
  > ### Gregory Miller
  > <img src="assets/journalist.jpeg" alt="journalist" class="stories" height="100" align="left" />
- > Hey, I'm Greg, I am our investigative journalist. I hope to gets a pulletzer someday.
+ > Hey, I'm Greg, I am our one and only investigative journalist. I generally work alone, most of my stories are high quality editorials. I hope to gets a pulletzer someday.
